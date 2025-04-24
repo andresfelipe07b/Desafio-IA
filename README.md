@@ -1,4 +1,4 @@
-# Resumen: Optimización de Recomendaciones de Productos con IA
+# Optimización de Recomendaciones de Productos con IA
 
 ## Introducción
 Este documento explica cómo mejorar las recomendaciones de productos en una tienda en línea usando inteligencia artificial (IA), para hacer las sugerencias más personalizadas y efectivas.
